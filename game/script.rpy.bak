@@ -28,12 +28,7 @@ label start:
     
     un "Why is that?"
     
-    "The gods have decided our fate and prophecy is told to brave men many eons ago."
-    "This is we have legends and tales."
-    "The heroes will come to save us all when the times come..."
-    "You must be ready when the end arrive."
-    
-    un "I will!"
+    "Everything goes in their own path. That's why we have prophecy."
 
     # This ends the game.
 
