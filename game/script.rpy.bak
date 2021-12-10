@@ -120,6 +120,11 @@ label start:
     u "You know, just amazing and unseen wonders!"
     
     ud "Your grandfather is lucky to have an adventure, he doesn't know how to fight."
-    ud ""
+    ud "The storm doesn't sink his trade ship, thank god for that or else you won't be here."
+    
+    u "*sigh"
+    u "I will not give up on this."
+    
+    ud "Enough chit chat, I need your help. Come help me with this smithing, the bars aren't going to heat itself!"
 
-    return
+    jump chp1

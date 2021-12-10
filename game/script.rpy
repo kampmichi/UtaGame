@@ -1,4 +1,4 @@
-﻿# First chapter
+﻿# Opening chapter
 
 # name of the character.
 
@@ -127,4 +127,4 @@ label start:
     
     ud "Enough chit chat, I need your help. Come help me with this smithing, the bars aren't going to heat itself!"
 
-    return
+    jump chp1
