@@ -23,14 +23,20 @@ label start:
     "A place without conflict."
     "Perhaps."
     
-    un "Why can't it always be peacful?"
+    un "Why can't it always be peaceful?"
     
     "I wonder that too sometimes."
-    un "If everyone was peacfull I could go anywhere right?"
+    
+    un "If everyone was peaceful I could go anywhere right?"
+    
     "If only it was, but each day I feel the profecy is comeing true things may change when you grow older."
+    
     un "Why is that?"
+    
     "Beasts and Monsters even conflicts amongst nations they have grown fiercer lately things will become really dangerous."
+    
     un "*shudder*"
+    
     "And then heroes will arive from outside this world to save us all when the time is right before the darkest hour."
     "As a Smith you must be ready when they arrive."
     
@@ -51,7 +57,7 @@ label start:
 
     u "AHHHHHH!"
 
-    un "Don't forget to come back before 20:00!"
+    un "Don't forget to come back before lunch!"
     
     u "Why didn't you remind me?!"
     
@@ -68,8 +74,10 @@ label start:
     u "Crap, it's already this late?!"
     
     p "Ah Uta of all the people I didn't think you would be missing today."
+    
     u "I am really sorry! I was too exited and then I ..."
-    p "Heh, when you didn#t show up I already expected something like that from you."
+    
+    p "Heh, when you didn't show up I already expected something like that from you."
     p "Unluckily for you, I have no mana for another proper blessing cerimony today but I can make a ritualistic one."
     
     stop music fadeout 3.0
@@ -79,12 +87,17 @@ label start:
     play music normal
     p "Alright, then come stand in this spot."
     "The prist splashes ceremonial water on Uta."
+    
     u "Huh?!"
+    
     p "May the gods bless this child, Amen."
     p "It's done."
+    
     u "Amen!"
     u "Wait that was it?!"
+    
     p "Well, it's usually for people futher away that can't travel the water I splashed you with is imbued with the different aspects of the ceremony."
+    
     u "Huh ... so how do I?"
     
     p "Oh, well since we used the ritual you should manifest before the fall, your gift I mean."
@@ -92,7 +105,9 @@ label start:
     
     u "I guess this is how it is then."
     u "Really, thank you!"
+    
     p "If anything bad happens or nothing at all happens come to me tomorrow and I will take a look."
+    
     u "Should be fine I think."
     
     "As I walk outside the other kids already know their gift, some even playing with sticks."

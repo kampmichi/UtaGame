@@ -1,4 +1,4 @@
-﻿# First chapter
+﻿# Opening chapter
 
 # name of the character.
 
@@ -12,8 +12,10 @@ define p = Character("Priest")
 
 label start:
 
+
+
     play music opening
-    "It is a peaceful day."
+    "Ahh, it's such a peaceful day."
     scene bg field
 
     un "What does it means to be peaceful?"
@@ -21,81 +23,94 @@ label start:
     "A place without conflict."
     "Perhaps."
     
-    un "I heard that war is a thing of the past."
-    un "There is nothing we should be afraid of!"
+    un "Why can't it always be peaceful?"
     
-    "Yes my dear."
-    "Yet, the prophecy is true."
-    "Things may change when you grow older."
+    "I wonder that too sometimes."
+    
+    un "If everyone was peaceful I could go anywhere right?"
+    
+    "If only it was, but each day I feel the profecy is comeing true things may change when you grow older."
     
     un "Why is that?"
     
-    "The gods have decided our fate and prophecy is told to brave men many eons ago."
-    "This is we have legends and tales."
-    "The heroes will come to save us all when the times come..."
-    "You must be ready when the end arrive."
+    "Beasts and Monsters even conflicts amongst nations they have grown fiercer lately things will become really dangerous."
+    
+    un "*shudder*"
+    
+    "And then heroes will arive from outside this world to save us all when the time is right before the darkest hour."
+    "As a Smith you must be ready when they arrive."
     
     un "I will!"
-    "You better be..."
 
-    stop music fadeout 3.0
+    stop music fadeout 2.0
     scene 
     show black
     
-    ""
-    "Is this time already?"
+    "UTA!!"
     
     play music panic
-    scene bg room1
-    
-    un "Don't forget to come back at 10!"
-    
-    u "Yikes! I think I'm late, why didn't you remind me?!"
-    
-    ud "Come on, you don't have much time now."
-    
-    u "This is not fair! I will get scold!"
-    
     scene bg room1 with hpunch
-    u "Ahhhh!"
     
-    ud "If you run now, maybe you get there in time."
+    u "HUH?!"
+
+    un "How long did you stay up last night?!"
+
+    u "AHHHHHH!"
+
+    un "Don't forget to come back before 20:00!"
     
-    u "This is no time for joke..."
-    u "(Should have know better, why did I sleep so late last night?)"
+    u "Why didn't you remind me?!"
     
-    scene bg chapel
-    p "...with this I conclude, the mightly lord should bless us all, for light and for prosperity."
+    ud "You are the one that told me you become a adult today."
+    
+    u "This is not fair! I will get scolded!"
+    
+    ud "If you run now you might reach the church in time for your ceremony."
+
+    scene bg chapel with hpunch
+    p "...with this I conclude, may the gods bless us all, for light and for prosperity."
     "Amen."
     
-    u "Crap, they just finish."
+    u "Crap, it's already this late?!"
     
-    p "Is you, the girl they talked about who went missing today."
-    p "Luckily or unluckily for you, the ceremonial will be done privately since I have no mana for today."
+    p "Ah Uta of all the people I didn't think you would be missing today."
+    
+    u "I am really sorry! I was too exited and then I ..."
+    
+    p "Heh, when you didn't show up I already expected something like that from you."
+    p "Unluckily for you, I have no mana for another proper blessing cerimony today but I can make a ritualistic one."
     
     stop music fadeout 3.0
     u "Umm, I don't know the difference."
     u "Thank god, I still can do it!"
     
     play music normal
-    p "Then let's not waste anytime, Amen."
-    p "It's done, you can go home now."
-    p "*sigh"
+    p "Alright, then come stand in this spot."
+    "The prist splashes ceremonial water on Uta."
     
-    u "Thanks!"
-    u "(Is this how ceremonial works? Just like that?)"
-    u "..."
+    u "Huh?!"
     
-    p "Oh, before you ask, yes."
-    p "You should know before fall, the gift I mean."
-    p "If anything, please comeback tomorrow, I'm tired now."
+    p "May the gods bless this child, Amen."
+    p "It's done."
     
-    u "Wai- and the door just shut on me... Nice."
+    u "Amen!"
+    u "Wait that was it?!"
+    
+    p "Well, it's usually for people futher away that can't travel the water I splashed you with is imbued with the different aspects of the ceremony."
+    
+    u "Huh ... so how do I?"
+    
+    p "Oh, well since we used the ritual you should manifest before the fall, your gift I mean."
+    p "It might be inconvenient for you but Adults should come on time."
+    
     u "I guess this is how it is then."
-    u "..."
+    u "Really, thank you!"
+    
+    p "If anything bad happens or nothing at all happens come to me tomorrow and I will take a look."
+    
     u "Should be fine I think."
     
-    "The other kids already know their gift, some even playing with sticks."
+    "As I walk outside the other kids already know their gift, some even playing with sticks."
     
     u "Oh neat, that must be some sort of fighting skill."
     
@@ -112,19 +127,19 @@ label start:
     u "The priest told me I should know it later."
     u "I very excited! Could be something I always wanted!"
     
-    ud "Ha, I heard the other kid has the fighting skill."
-    ud "You won't get it since every village, there's only one fighter each year."
+    ud "Ha, arrived to late huh?"
+    ud "Don't get your hopes up too much, you will get the flame spirit skill like me and everyone before me."
     ud "Quit the adventurer dream and come to work with me."
     
     u "But dad... I would like to see how the world is like! The ocean, the mountains, the land covered in ice..."
-    u "You know, just amazing and unseen wonders!"
+    u "You know, just amazing wonders!"
     
-    ud "Your grandfather is lucky to have an adventure, he doesn't know how to fight."
-    ud "The storm doesn't sink his trade ship, thank god for that or else you won't be here."
+    ud "Your grandfather is lucky to have had an adventure, even when he hadn't know how to fight."
+    ud "But things have changed, a half hearted skill is not enough to travel the world anymore."
     
     u "*sigh"
     u "I will not give up on this."
     
-    ud "Enough chit chat, I need your help. Come help me with this smithing, the bars aren't going to heat itself!"
+    ud "Enough chit chat, I need your help. For at least one more day for being oversleeping!"
 
     jump chp1
