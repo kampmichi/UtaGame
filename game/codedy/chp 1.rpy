@@ -56,5 +56,45 @@ label chp1:
     u "I don't mind, I mean I never been to one."
     
     ud "Right, just don't keep your hopes too much."
+    "..."
+    
+    scene bg chapel
+    p "..."
+    
+    un "What's the matter?"
+    
+    p "I just receive a letter that some monsters are sighted near Gaven Cave."
+    p "It shouldn't be big of a deal since our guards are watching but..."
+    p "Someone when missing these days."
+    
+    un "Should be fine, did they tell you anything else?"
+    
+    p "Not really."
+    
+    un "Then it's fine."
+    un "Focus on getting the ritual ready."
+    un "Expect no delays."
+    
+    stop music fadeout 2.0
+    p "Yes sir."
+    
+    scene 
+    show black
+    play music scarry
+    ""
+    "AHHHHHHHHHHHHHH"
+    
+    scene bg forest1 with hpunch
+    m "Rrrrrr...."
+    
+    un "Why are there so many monsters here!"
+    un "Fallback! They keep growing in numbers!"
+    
+    m "RRRRRRRRRRGHHHHHHH!!!"
+    stop music fadeout 2.0
+    ""
+    
+    
+    
 
     return
