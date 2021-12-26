@@ -126,21 +126,19 @@ label start:
     
     u "Uhhhh... That I don't know yet."
     u "The priest told me I should know it later."
-    u "I very excited! Could be something I always wanted!"
-    
     ud "Ha, arrived to late huh?"
+    u "Yes, but I am still gonna get something! It Could be the combat skill I always wanted!"
     ud "Don't get your hopes up too much, you will get the flame spirit skill like me and everyone before me."
     ud "Quit the adventurer dream and come to work with me."
     
     u "But dad... I would like to see how the world is like! The ocean, the mountains, the land covered in ice..."
     u "You know, just amazing wonders!"
     
-    ud "Your grandfather is lucky to have had an adventure, even when he hadn't know how to fight."
+    ud "Your grandfather is lucky to have had an adventure with the skill we inherited, even if it isn't as strong for combat as real combat skills."
     ud "But things have changed, a half hearted skill is not enough to travel the world anymore."
     
     u "*sigh"
     u "I will not give up on this."
-    
     ud "Enough chit chat, I need your help. For at least one more day for being oversleeping!"
 
     jump chp1
