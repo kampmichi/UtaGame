@@ -97,4 +97,4 @@ label chp1:
     
     
 
-    return
+    jump chp2

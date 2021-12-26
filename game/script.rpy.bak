@@ -7,6 +7,7 @@ define u = Character("Uta")
 define un = Character("?")
 define ud = Character("Dad")
 define p = Character("Priest")
+define m = Character("Monsters")
 
 # The game starts here.
 

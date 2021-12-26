@@ -8,6 +8,7 @@ define un = Character("?")
 define ud = Character("Dad")
 define p = Character("Priest")
 define m = Character("Monsters")
+define mn = Character("Miner")
 
 # The game starts here.
 

@@ -9,7 +9,7 @@ define audio.scarry ="audio/Toradora OST 20  Monochrome Set.mp3" #Toradora
 
 define audio.normal = "audio/Toradora OST 04  Kotori no Etude.mp3" #Toradora
 
-
+define audio.battle = "audio/Toradora OST 12  Psychocandy.mp3" #Toradora
 
 
 # Background pic
