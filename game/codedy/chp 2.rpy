@@ -166,6 +166,7 @@ label chp2:
     mn "She's gone now, we don't even know her name."
     mn "Do you think she can be the next hero?"
     mn "Who knows man, I can only hope we can get back home alive after what we been through today."
+    mn "Agree..."
     
     scene bg blacksmith room
     ud "Took you long enough."
@@ -179,8 +180,39 @@ label chp2:
     u "I pull it out from the wall, easy enough."
     u "The miners are friendly enough to let me reach a rich mineral fields!"
     
+    ud "You're looking rough now I inspect your clothing even more."
+    ud "Don't tell me..."
     
+    u "I did fight with some monsters-please, it's not a big deal!"
     
+    ud "I know, I should have know."
+    "Sat on his chair, he looks rather calm at first but soon turned to her."
+    ud "Your abilities are not normal, you are much stronger than anyone else."
     
-
+    u "Yes father."
+    
+    ud "I really hope you can stay in the smith with me."
+    ud "After all, you're the only child I have."
+    ud "As well as the youngest member of our family bloodline."
+    
+    u "It's alright father, everything is going to be fine."
+    u "No matter what happens, I'm going to do my best."
+    
+    ud "You're going to go out, explore unknown land like your grandfather once did."
+    ud "Whatever happens, you will need the best gear with you and hopefully you can get them."
+    
+    u "Right..."
+    u "I can smith my own weapons... I hope."
+    
+    ud "I have my tailor friend just a few streets away, you should get your clothes over there too."
+    
+    u "I will! Thanks father!"
+    u "This is my best day yet! Hahaha!"
+    "Received 100 gold."
+    u "See you soon! I think go gather more materials!"
+    
+    ud "..."
+    ud "She is excited, who would have thought her power could be this strong?"
+    ud "May the road ahead is safe and sound for you, my dear Uta..."
+    
     jump chp3
