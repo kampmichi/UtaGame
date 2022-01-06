@@ -158,8 +158,8 @@ label chp2:
     mn "Smith girl... May I ask why are you so strong?"
     mn "You also defeated the golbin witch all by yourself, that's crazy!"
     
-    u "I don't know but I need to get my stuff back home now."
-    u "Dad is not going to like me missing out on the time."
+    u "Hehe, I not really sure how I did that."
+    u "But I will need more so bye for now!"
     
     mn "Wait!"
     "..."
@@ -167,6 +167,32 @@ label chp2:
     mn "Do you think she can be the next hero?"
     mn "Who knows man, I can only hope we can get back home alive after what we been through today."
     mn "Agree..."
+    
+    u "(Deeper inside the cave, things are looking quite different than the surface.)"
+    u "Something tells me I shouldn't be here but oh well."
+    u "(I just realize I can see clearly in complete dark!)"
+    
+    m "Rrrrr..."
+    
+    u "(Ah I can see them, seems like it's just golbins.)"
+    u "You guys again? Bad golbins..."
+    u "(I kill them in such speed that I could see their heads are stationary on air after I slide my hand towards the necks.)"
+    u "(They are no match to me.)"
+    
+    m "RRRRRRRRRRGHHHHHHH!"
+    "A sudden stab from the back!"
+    
+    u "Yikes!...oh, I'm fine."
+    u "I would never expect my skin becomes this hard."
+    
+    m "?!"
+    
+    u "(I grab by the golbin hunter neck.)"
+    u "(Feeling the fragile bones, I smash it to the wall and tear it apart like I break egg's shell.)"
+    u "(The sharp shiv I picked it up and throw it on a rock.)"
+    u "(It's much sharper than I thought, cutting it through like paper.)"
+    u "Haha, I really like I'm being super strong now! I can fight!"
+    "Mined more ores and rare crystals."
     
     scene bg blacksmith room
     ud "Took you long enough."
